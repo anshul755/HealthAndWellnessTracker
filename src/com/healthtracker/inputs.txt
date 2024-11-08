@@ -1,0 +1,36 @@
+Healthy Food Items
+
+Weight: 68 kg
+Height: 175 cm
+
+APPLE
+BANANA
+CARROT STICKS
+CUCUMBER SLICES
+GREEK YOGURT
+BLUEBERRIES
+STRAWBERRY SMOOTHIE
+OATMEAL
+QUINOA
+FALAFEL
+
+
+
+Unhealthy Food Items
+
+Weight: 90 kg
+Height: 170 cm
+
+Cheeseburger
+Fries
+PIZZA
+Chocolate Cake
+Chocolate DONUT
+Soda
+ICE CREAM
+Candy Bar
+Deep-Fried Chicken
+Double Bacon Burger
+Fried Mozzarella Sticks
+ONION RINGS
+NACHOS WITH CHEESE
