@@ -1,5 +1,6 @@
 # HealthAndWellnessTracker
 
+Working Of Code:
 The Java project starts with a package declaration (package com.healthtracker;) in each of the four files, organizing the classes under the same namespace for better management.
 
 The Tracker interface in Tracker.java defines methods that any class implementing this interface must provide, including addFoodItem(...) for adding food item details, calculateHealthScore() for calculating the health score, assessRisks() for evaluating health risks based on dietary intake, and wellnessRecommendations() for providing dietary recommendations.
